@@ -1,0 +1,4 @@
+project location:
+C:\xampp\htdocs\student-reg
+
+.env file is at the safest place => TISG.
